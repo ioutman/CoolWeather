@@ -70,7 +70,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="b610d402f2cfb9043b9da0d6d3d7e913f24e9f39">
+        sha1="6d7f92c9395ebeec2962b58de23f580312cb0d84">
         <dex dex="D:\androidspace\CoolWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_666997023048b448ffbef2a550ee0626e7fa1fee\classes.dex" />
     </item>
     <item
@@ -142,7 +142,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="5b09aa9b392ecd147950b4a24ee8706b3db7f67e">
+        sha1="285a4b52f89a074c2b3ffb6dfa4c690b322e2973">
         <dex dex="D:\androidspace\CoolWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_47e0dfd822b81fbdb11b3d555d47dddda5bb85eb\classes.dex" />
     </item>
     <item

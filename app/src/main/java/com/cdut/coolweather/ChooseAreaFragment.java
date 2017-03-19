@@ -182,8 +182,6 @@ public class ChooseAreaFragment extends Fragment {
             int provinceCode = selectedProvince.getProvinceCode();
             int cityCode = selectedCity.getCityCode();
             String address="http://guolin.tech/api/china/"+ provinceCode+"/"+cityCode;
-            Toast.makeText(getActivity(),address,Toast.LENGTH_LONG).show();
-            Log.d("TAG",address);
             queryFromServer(address,"county");
         }
     }
@@ -217,7 +215,7 @@ public class ChooseAreaFragment extends Fragment {
                     getActivity().runOnUiThread(new Runnable() {
                         @Override
                         public void run() {
-                            closeProgressDialog();
+//                            closeProgressDialog();     delete by LY 20170319 for dialog shows all time
                             if ("province".equals(type)){
                                 queryProvinces();
                             }else if("city".equals(type)){
@@ -228,6 +226,24 @@ public class ChooseAreaFragment extends Fragment {
                         }
                     });
                 }
+                //  add by LY 20170319 for dialog shows all time (on)
+                closeProgressDialog();
+                if (currentLevel == LEVEL_PROVINCE){
+                   getActivity().runOnUiThread(new Runnable() {
+                       @Override
+                       public void run() {
+                           queryCities();
+                       }
+                   });
+                } else if (currentLevel==LEVEL_CITY){
+                    getActivity().runOnUiThread(new Runnable() {
+                        @Override
+                        public void run() {
+                            queryCounties();
+                        }
+                    });
+                }
+                //  add by LY 20170319 for dialog shows all time (on)
             }
         });
     }
