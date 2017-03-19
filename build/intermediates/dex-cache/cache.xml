@@ -3,6 +3,15 @@
 
     <item
         is-multidex="true"
+        jar="D:\androidspace\CoolWeather\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="D:\androidspace\CoolWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.2.0_1c7a2cb69faebadeb802adc197a6e88398e5e647\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="D:\androidspace\CoolWeather\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -30,33 +39,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="D:\androidspace\CoolWeather\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
-        <dex dex="D:\androidspace\CoolWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.2.0_0835dca90d4980efa62300697d1c95a010759b2f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\LY\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
-        <dex dex="D:\androidspace\CoolWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_cd6db75b555615fc895a0546f1f187b235c1051b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\androidspace\CoolWeather\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
-        <dex dex="D:\androidspace\CoolWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.2.0_1c7a2cb69faebadeb802adc197a6e88398e5e647\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="D:\androidspace\CoolWeather\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -70,7 +52,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="6d7f92c9395ebeec2962b58de23f580312cb0d84">
+        sha1="ecf8735fcce0a9fd4b538a775d13f7f5936b0bf1">
         <dex dex="D:\androidspace\CoolWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_666997023048b448ffbef2a550ee0626e7fa1fee\classes.dex" />
     </item>
     <item
@@ -111,12 +93,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="D:\androidspace\CoolWeather\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="D:\androidspace\CoolWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.2.0_0835dca90d4980efa62300697d1c95a010759b2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="D:\androidspace\CoolWeather\app\libs\okhttp-3.4.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
         <dex dex="D:\androidspace\CoolWeather\app\build\intermediates\transforms\dex\debug\folders\1000\2\okhttp-3.4.1_6207e243626da85c9b44e3675f02e52fe66d3ca2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LY\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="D:\androidspace\CoolWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_cd6db75b555615fc895a0546f1f187b235c1051b\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -142,7 +142,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="285a4b52f89a074c2b3ffb6dfa4c690b322e2973">
+        sha1="f4a37997d0ff5c22123966cfe11b88397f7f7ca2">
         <dex dex="D:\androidspace\CoolWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_47e0dfd822b81fbdb11b3d555d47dddda5bb85eb\classes.dex" />
     </item>
     <item
