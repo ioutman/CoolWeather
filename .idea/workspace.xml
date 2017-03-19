@@ -41,31 +41,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HttpUtil.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cdut/coolweather/util/HttpUtil.java">
+      <file leaf-file-name="activity_weather.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_weather.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+            <state relative-caret-position="659">
+              <caret line="45" column="14" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ChooseAreaFragment.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ChooseAreaFragment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cdut/coolweather/ChooseAreaFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="230" column="35" selection-start-line="230" selection-start-column="17" selection-end-line="230" selection-end-column="35" />
+            <state relative-caret-position="724">
+              <caret line="104" column="61" selection-start-line="104" selection-start-column="61" selection-end-line="104" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2457#3324#0" expanded="true" />
-                <element signature="e#3323#3324#0" expanded="true" />
-                <element signature="e#3365#3673#0" expanded="true" />
-                <element signature="e#3672#3673#0" expanded="true" />
-                <element signature="e#6495#6756#0" expanded="true" />
-                <element signature="e#6755#6756#0" expanded="true" />
-                <element signature="e#7485#8032#0" expanded="true" />
-                <element signature="e#8031#8032#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -75,98 +70,26 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cdut/coolweather/WeatherActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="128" column="28" selection-start-line="128" selection-start-column="24" selection-end-line="128" selection-end-column="28" />
+              <caret line="146" column="30" selection-start-line="146" selection-start-column="16" selection-end-line="146" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#3542#3543#0" expanded="true" />
-                <element signature="e#3593#3594#0" expanded="true" />
-                <element signature="e#4009#4224#0" expanded="true" />
-                <element signature="e#4223#4224#0" expanded="true" />
-                <element signature="e#4707#4932#0" expanded="true" />
-                <element signature="e#4931#4932#0" expanded="true" />
-                <element signature="e#5241#5910#0" expanded="true" />
-                <element signature="e#5909#5910#0" expanded="true" />
+                <element signature="e#3134#3312#0" expanded="true" />
+                <element signature="e#3311#3312#0" expanded="true" />
+                <element signature="e#3953#4124#0" expanded="true" />
+                <element signature="e#4123#4124#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-          <provider editor-type-id="android-manifest">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styles.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_weather.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_weather.xml">
+      <file leaf-file-name="title.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/title.xml">
           <provider editor-type-id="android-designer2">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Forecast.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cdut/coolweather/gson/Forecast.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="forecast_item.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/forecast_item.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cdut/coolweather/MainActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="45" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Utility.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cdut/coolweather/util/Utility.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="81" column="34" selection-start-line="81" selection-start-column="34" selection-end-line="81" selection-end-column="34" />
+            <state relative-caret-position="209">
+              <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -1877,20 +1800,20 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/cdut/coolweather/gson/Now.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/cdut/coolweather/gson/Suggestion.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/cdut/coolweather/gson/Weather.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/title.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/now.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/forecast.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/forecast_item.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/aqi.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/suggestion.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/cdut/coolweather/MainActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/cdut/coolweather/ChooseAreaFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/cdut/coolweather/util/Utility.java" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/cdut/coolweather/gson/Forecast.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_weather.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/cdut/coolweather/WeatherActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/title.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/cdut/coolweather/WeatherActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/cdut/coolweather/ChooseAreaFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_weather.xml" />
       </list>
     </option>
   </component>
@@ -2079,6 +2002,36 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoolWeather" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoolWeather" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -2176,7 +2129,7 @@
     <property name="UI_DESIGNER_EDITOR_MODE.NlPaletteManager-NlPreviewForm.SHOW" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="device.picker.selection" value="NX513J" />
+    <property name="device.picker.selection" value="123456789123451" />
     <property name="DEBUGGABLE_DEVICE" value="tecno-tecno_c9-123456789123451" />
     <property name="DEBUGGABLE_PROCESS" value="com.cdut.coolweather" />
     <property name="SHOW_ALL_PROCESSES" value="false" />
@@ -2188,8 +2141,8 @@
       <recent name="com.cdut.coolweather.db" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\androidspace\CoolWeather\app\libs" />
       <recent name="D:\androidspace\CoolWeather\app\src\main\res\drawable" />
+      <recent name="D:\androidspace\CoolWeather\app\libs" />
     </key>
   </component>
   <component name="RunManager" selected="Android App.app">
@@ -2503,7 +2456,7 @@
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33073497" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33073497" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2752,17 +2705,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/title.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/now.xml">
       <provider editor-type-id="android-designer2">
         <state />
@@ -2863,17 +2805,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_weather.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider editor-type-id="android-manifest">
         <state />
@@ -2893,39 +2824,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/title.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cdut/coolweather/WeatherActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="128" column="28" selection-start-line="128" selection-start-column="24" selection-end-line="128" selection-end-column="28" />
+          <caret line="146" column="30" selection-start-line="146" selection-start-column="16" selection-end-line="146" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#3542#3543#0" expanded="true" />
-            <element signature="e#3593#3594#0" expanded="true" />
-            <element signature="e#4009#4224#0" expanded="true" />
-            <element signature="e#4223#4224#0" expanded="true" />
-            <element signature="e#4707#4932#0" expanded="true" />
-            <element signature="e#4931#4932#0" expanded="true" />
-            <element signature="e#5241#5910#0" expanded="true" />
-            <element signature="e#5909#5910#0" expanded="true" />
+            <element signature="e#3134#3312#0" expanded="true" />
+            <element signature="e#3311#3312#0" expanded="true" />
+            <element signature="e#3953#4124#0" expanded="true" />
+            <element signature="e#4123#4124#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cdut/coolweather/ChooseAreaFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="230" column="35" selection-start-line="230" selection-start-column="17" selection-end-line="230" selection-end-column="35" />
+        <state relative-caret-position="724">
+          <caret line="104" column="61" selection-start-line="104" selection-start-column="61" selection-end-line="104" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2457#3324#0" expanded="true" />
-            <element signature="e#3323#3324#0" expanded="true" />
-            <element signature="e#3365#3673#0" expanded="true" />
-            <element signature="e#3672#3673#0" expanded="true" />
-            <element signature="e#6495#6756#0" expanded="true" />
-            <element signature="e#6755#6756#0" expanded="true" />
-            <element signature="e#7485#8032#0" expanded="true" />
-            <element signature="e#8031#8032#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_weather.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="659">
+          <caret line="45" column="14" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
